@@ -1,6 +1,6 @@
 1
 00:02:26,490 --> 00:02:29,490
-Well, what are you doing so early on your legs, my child?
+Well, what are you doing up so early, my child?
 
 2
 00:02:29,490 --> 00:02:31,490
@@ -20,11 +20,11 @@ I'm very well, but what's going on with you?
 
 6
 00:02:39,490 --> 00:02:42,490
-Nothing special. I want to fly with Heidi to the village.
+Nothing special. I want to take Heidi to Dörfli.
 
 7
 00:02:42,490 --> 00:02:44,490
-I could take you to Mayenfeld.
+I could take you as far as Mayenfeld.
 
 8
 00:02:44,490 --> 00:02:46,490
@@ -40,7 +40,7 @@ Immediately. Here, Heidi, tie your scarf so you don't lose it.
 
 11
 00:02:52,602 --> 00:02:55,602
-- I'm hot. - You'd rather sweat than wear it.
+- I'm hot. - Rather sweat a little than carry it.
 
 12
 00:02:55,602 --> 00:02:57,602
@@ -48,12 +48,11 @@ Hold on tight.
 
 13
 00:02:58,602 --> 00:03:01,602
-Come on, Lottie, we have to go.
+Alright. Come on, y'all, we have to go.
 
 14
 00:03:13,845 --> 00:03:18,845
-So, so, so, there you two pretty girls want to fly to the village in the early
-morning.
+So, so, so, you two pretty girls want to go to Dörfli this early in the morning.
 
 15
 00:03:18,845 --> 00:03:21,845
@@ -61,7 +60,7 @@ Is there a church today or some kind of child baptism?
 
 16
 00:03:21,845 --> 00:03:23,845
-No, I'm bringing Heidi up to the Alme Öhi.
+No, I'm bringing Heidi up to the Alm Öhi.
 
 17
 00:03:23,845 --> 00:03:24,845
@@ -77,11 +76,11 @@ I found a position in Frankfurt.
 
 20
 00:03:27,845 --> 00:03:29,845
-Unfortunately, I can't use it.
+Unfortunately, I can't take her.
 
 21
 00:03:29,845 --> 00:03:31,845
-Done.
+Made it.
 
 22
 00:03:40,341 --> 00:03:45,341
@@ -94,15 +93,15 @@ After the death of her parents, she lived with her aunt Dete.
 
 24
 00:03:48,341 --> 00:03:52,341
-And Heidi always thought that aunt Dete would be her only relative.
+And Heidi always thought that aunt Dete was her only relative.
 
 25
 00:03:52,341 --> 00:03:56,341
-But suddenly everyone was talking about an old Moorish moor.
+But suddenly everyone was talking about a grouchy old Alm Öhi.
 
 26
 00:03:56,341 --> 00:03:59,341
-And this moor should be her grandfather.
+And this Alm Öhi was supposedly her grandfather.
 
 27
 00:03:59,341 --> 00:04:04,341
@@ -110,11 +109,11 @@ And every time Heidi asked how he looked, no one could give her an answer.
 
 28
 00:04:04,341 --> 00:04:07,341
-For years, no one had seen this grandfather again.
+For years, no one had seen this grandfather.
 
 29
 00:05:13,109 --> 00:05:15,109
-I'm sorry, I have to sit you down here.
+I'm sorry, I have to drop you off here.
 
 30
 00:05:15,109 --> 00:05:17,109
@@ -122,11 +121,11 @@ Thank you, Thomas, that has already helped.
 
 31
 00:05:19,109 --> 00:05:22,109
-Heidi, what are you doing again now?
+Heidi, what are you already up to again?
 
 32
 00:05:22,109 --> 00:05:25,109
-Try it too, it's nice and cold.
+You should try it, too, it's nice and cold.
 
 33
 00:05:25,109 --> 00:05:27,109
@@ -134,23 +133,23 @@ Goodbye, take care.
 
 34
 00:05:33,141 --> 00:05:36,141
-How is that supposed to be with those old men?
+Poor thing. How is that supposed to go with that horrible old man?
 
 35
 00:05:37,141 --> 00:05:39,141
-Here!
+Hya!
 
 36
 00:05:59,568 --> 00:06:02,568
-Can't you run a little faster?
+Can't you walk a little faster?
 
 37
 00:06:05,568 --> 00:06:09,568
-Heidi, where are you staying? Don't move!
+Heidi, where have you gotten to? Don't lolligag!
 
 38
 00:06:11,568 --> 00:06:14,568
-The mountain is too steep. I'm warm.
+The mountain is too steep. I'm hot.
 
 39
 00:06:16,568 --> 00:06:21,568
@@ -162,11 +161,11 @@ What's going on? Are you tired?
 
 41
 00:06:46,016 --> 00:06:50,016
-How far is it? It's so warm here. I can't take it anymore.
+How far is it still? I'm so hot. I can't do it anymore.
 
 42
 00:06:50,016 --> 00:06:54,016
-It's over there. Look, Heidi. That's Dörfli. That's where you were born.
+It's right over there. Look, Heidi. That's Dörfli. That's where you were born.
 
 43
 00:06:57,016 --> 00:06:59,996
@@ -178,7 +177,7 @@ That's the bell of the village church. Come on, Heidi, let's go.
 
 45
 00:07:18,256 --> 00:07:21,256
-Well, that's something, isn't it, Dede? Hello.
+Well, that's something, isn't this Dete? Hello.
 
 46
 00:07:21,256 --> 00:07:22,256
@@ -194,7 +193,7 @@ Another time, we're in a hurry.
 
 49
 00:07:27,256 --> 00:07:29,256
-Dede, well, something like that.
+Dete, imagine that.
 
 50
 00:07:29,256 --> 00:07:30,256
@@ -214,7 +213,7 @@ I'm even going to Frankfurt.
 
 54
 00:07:35,256 --> 00:07:39,256
-What? And now just say the sweet little one, there's your child.
+What? And now just say the sweet little one there is your child.
 
 55
 00:07:39,526 --> 00:07:41,526
@@ -222,7 +221,7 @@ I don't have a child yet, that's Heidi.
 
 56
 00:07:41,526 --> 00:07:43,526
-Heidi? What kind of Heidi?
+Heidi? Which Heidi?
 
 57
 00:07:43,526 --> 00:07:46,526
@@ -230,7 +229,7 @@ The daughter of Adelheid, my older sister.
 
 58
 00:07:46,526 --> 00:07:47,526
-You know that.
+You know.
 
 59
 00:07:47,526 --> 00:07:49,526
@@ -242,29 +241,29 @@ Of course it is.
 
 61
 00:07:50,526 --> 00:07:53,526
-She told the little one, there's the child of Adelheid.
+She told the little one there's the child of Adelheid.
 
 62
 00:07:53,526 --> 00:07:57,526
-If that's the case, then you have to be the little Heidi. I've heard a lot about
-you.
+If that's the case, then you must be little Heidi. 
+I've heard a lot about you.
 
 63
 00:07:57,526 --> 00:08:00,526
-What do you two want here in the village?
+What do you two doing here in the village?
 
 64
 00:08:00,526 --> 00:08:03,462
-We're on our way to the Almyrhy. I'll take Heidi to him.
+We're on our way to the Alm Öhi. I'm taking Heidi to him.
 
 65
 00:08:03,462 --> 00:08:08,462
-- What about the old one? - But don't you want to leave the little one alone
-with the old one?
+- What, to that old guy? 
+- But don't you want to leave the little one alone up there with that old grouch?
 
 66
 00:08:08,462 --> 00:08:13,462
-I have nothing else to do. I found a job in Frankfurt and now the grandfather
+I don't have any other choice. I found a job in Frankfurt and now her grandfather
 has to take care of her.
 
 67
@@ -273,7 +272,8 @@ What? You're giving him the child?
 
 68
 00:08:18,462 --> 00:08:22,462
-- I'm already sorry for the little one. - That can't be serious, Dete.
+- I'm already sorry for the little one. 
+- That can't be serious, Dete.
 
 69
 00:08:22,462 --> 00:08:24,462
@@ -281,7 +281,7 @@ Oh yes.
 
 70
 00:08:24,462 --> 00:08:28,462
-For years the old one hasn't been allowed to look at us in the village.
+For years now that old grouch hasn't let himself be seen in the village.
 
 71
 00:08:28,462 --> 00:08:31,190
@@ -289,20 +289,22 @@ He doesn't even come to church on Sunday.
 
 72
 00:08:31,190 --> 00:08:35,690
-If only I knew what the old one is up to, that he's up there alone on the
-almshouse.
+If only I knew what that old grouch had on his conscience that he stays
+up there all alone.
 
 73
 00:08:35,690 --> 00:08:37,690
-- You know what? - Dieter!
+- You know what? 
+- Dete!
 
 74
 00:08:37,690 --> 00:08:40,190
-- Dieter, stay here! - Goodbye!
+- Dete, stay here! 
+- Goodbye!
 
 75
 00:08:40,190 --> 00:08:43,190
-But you're not talking to any more people.
+But he doesn't talk to anyone anymore.
 
 76
 00:08:43,190 --> 00:08:46,190
@@ -310,19 +312,20 @@ And he has such terribly bushy eyebrows.
 
 77
 00:08:50,190 --> 00:08:53,190
-- You must be totally crazy. - I don't care what you think of me.
+- You must be totally crazy. 
+- I don't care what you think of me.
 
 78
 00:08:53,190 --> 00:08:55,190
-He's your grandfather and he's on it now.
+He's your grandfather, and it's his turn now.
 
 79
 00:08:55,190 --> 00:08:58,180
-But no one knows what he's doing.
+But no one knows what he even does.
 
 80
 00:08:58,180 --> 00:09:03,180
-He can be seen at least once a year and even then he doesn't say a word to any
+He can be seen at most once a year and even then he doesn't say a word to any
 of us.
 
 81
@@ -331,16 +334,15 @@ Something's not right up there.
 
 82
 00:09:05,180 --> 00:09:11,180
-No man keeps his whole life, mother soul alone, somewhere in the mountains on an
-alp.
+No man can indefinitely live completely alone somewhere in the mountains.
 
 83
 00:10:00,779 --> 00:10:04,779
-What kind of a terrible child is that? Completely uneducated.
+What kind of a terrible child is that? Completely uncivilized.
 
 84
 00:10:04,779 --> 00:10:08,779
-He just ran over you. Did you hurt yourself, Heidi?
+He just ran you over. Did you get hurt, Heidi?
 
 85
 00:10:08,779 --> 00:10:10,779
@@ -348,11 +350,11 @@ Come on, come here.
 
 86
 00:10:10,779 --> 00:10:12,471
-Kiss.
+Blow.
 
 87
 00:10:16,203 --> 00:10:22,203
-I can understand you, Deete, but still, I don't think it's right of you.
+I can understand you, Dete, but still, I don't think it's right of you.
 
 88
 00:10:23,203 --> 00:10:27,203
@@ -360,11 +362,11 @@ Just try to put yourself in Heidi's shoes.
 
 89
 00:10:53,291 --> 00:10:55,291
-There you are again.
+There you are again!
 
 90
 00:10:55,291 --> 00:10:59,291
-Well, do you want to jump on the mountain now a little easier after the cold
+Well, is it easier to jump up the mountain now after the cold
 bath?
 
 91
@@ -373,7 +375,7 @@ Besides, it's not even my goat!
 
 92
 00:11:56,331 --> 00:12:02,331
-Dede, think about it again with Heidi. The old öhi can't do anything with
+Dete, think about it again with Heidi. The old öhi can't do anything with
 children. He can't do anything with anyone.
 
 93
@@ -387,7 +389,7 @@ Heidi! Heidi!
 95
 00:12:07,331 --> 00:12:12,331
 She's running over there. She's running after Peter. She's well taken care of
-there. Peter will be careful.
+there. Peter will be watch out for her.
 
 96
 00:12:12,331 --> 00:12:16,331
@@ -395,32 +397,32 @@ Heidi is used to taking care of herself. She will somehow get along.
 
 97
 00:12:16,988 --> 00:12:22,688
-Hopefully you're right. Aldi is still quite small. She is only five years old
+Hopefully you're right. Heidi is still quite small. She is only five years old,
 and she has got used to you.
 
 98
 00:12:22,688 --> 00:12:26,488
-You can't just plant children like that. You can't even do that with trees.
+You can't just replant children like that. You can't even do that with trees.
 
 99
 00:12:40,038 --> 00:12:42,038
-I always have to go after everyone.
+I'm always running after everyone.
 
 100
 00:12:43,038 --> 00:12:45,038
-But slowly I also don't feel like it anymore.
+But I can't keep doing this.
 
 101
 00:12:52,134 --> 00:12:55,134
-The old thing is coming down now.
+This old thing is coming off now.
 
 102
 00:13:05,862 --> 00:13:07,862
-That too.
+That, too.
 
 103
 00:13:18,182 --> 00:13:20,182
-Nanou?
+What?
 
 104
 00:13:20,182 --> 00:13:22,182
@@ -428,47 +430,47 @@ Why not?
 
 105
 00:13:22,182 --> 00:13:24,182
-Not yet. It's much better in the underwear.
+Doesn't matter. It's much easier in just the slip.
 
 106
 00:15:03,489 --> 00:15:05,489
-From today on I was always the fastest.
+Until today on I was always the fastest.
 
 107
 00:15:05,489 --> 00:15:07,489
-From today on you know someone who is faster than you.
+From now on you know someone who is faster than you.
 
 108
 00:15:07,489 --> 00:15:09,489
-Where are you running to?
+Where are you even running to?
 
 109
 00:15:09,489 --> 00:15:11,489
-To the Alpüi, that's where I live.
+To the Alm Öhi, that's where I live.
 
 110
 00:15:11,489 --> 00:15:13,489
-What? You live at the old Krieskram?
+What? You live with that old curmudgeon?
 
 111
 00:15:13,489 --> 00:15:15,489
-Yes, from today on.
+Yes, as of today.
 
 112
 00:15:15,489 --> 00:15:17,489
-I don't believe you. No human is able to keep up with you.
+I don't believe you. No human would last with him.
 
 113
 00:15:19,489 --> 00:15:21,489
-Maybe you'll make a face.
+You should see your face.
 
 114
 00:15:21,489 --> 00:15:23,489
-Tell me, aren't you afraid at all?
+But tell me, aren't you afraid at all?
 
 115
 00:15:23,489 --> 00:15:25,489
-Why? Should I?
+Why? Should I be?
 
 116
 00:15:25,489 --> 00:15:27,489
@@ -484,7 +486,7 @@ Where are you going with all those goats if they don't belong to you?
 
 119
 00:15:33,823 --> 00:15:35,823
-I'll bring them up the mountain and I'll take care of them.
+I'll bring them up the mountain and take care of them.
 
 120
 00:15:35,823 --> 00:15:37,823
@@ -500,16 +502,17 @@ Nothing more?
 
 123
 00:15:46,081 --> 00:15:51,441
-This is my goat. She barks like a dog. Then you live in the little house back
-there.
+This is my goat. She obeys me like a dog. Then you  must live in that 
+little house back there.
 
 124
 00:15:51,441 --> 00:15:57,841
-I guess we should hurry. The sun is going down soon.
+I think we should hurry. The sun is going down soon.
 
 125
 00:15:57,841 --> 00:16:00,321
-Come on, come on! Yes, good!
+Come on! 
+- Yes, good!
 
 126
 00:16:00,321 --> 00:16:07,201
@@ -518,31 +521,34 @@ soon.
 
 127
 00:16:07,201 --> 00:16:11,441
-Peter got to know each other in the mountains and Heidi liked that.
+Peter knew his way around the mountains, and Heidi liked that.
 
 128
 00:16:11,441 --> 00:16:13,441
-I have to weigh you now.
+I have to turn here.
 
 129
 00:16:13,495 --> 00:16:17,695
-Think about what I said. Heidi is nothing for the mountains. Take her with you.
+Think about what I said. Heidi is not made for the mountains. Take her with you.
 
 130
 00:16:17,695 --> 00:16:19,695
--Live well. -Live well, Barbel.
+-Live well. 
+-Live well, Barbel.
 
 131
 00:16:25,761 --> 00:16:28,261
--I'm coming. -Heidi, what do you look like?
+-Aunt Dete, catch me, I'm coming. 
+-Heidi, what do you look like?
 
 132
 00:16:28,261 --> 00:16:32,261
--What did you do with your clothes? -I just took them off, nothing else.
+-What did you do with your clothes? 
+-I just took them off, nothing else.
 
 133
 00:16:32,261 --> 00:16:35,261
-You just threw them away? What did you think?
+You just threw them away? What were you thinking?
 
 134
 00:16:35,261 --> 00:16:38,261
@@ -566,7 +572,8 @@ Maybe you have some time now.
 
 139
 00:16:50,261 --> 00:16:55,261
--Yes, I think so. -Well, you always have some time.
+-Yes, I think so. 
+-See, one always has a little bit of time.
 
 140
 00:16:55,261 --> 00:16:55,543
@@ -574,19 +581,20 @@ Yes, I do.
 
 141
 00:16:55,543 --> 00:16:57,543
-Yes, I will hurry up too.
+Yes, I will hurry up, too.
 
 142
 00:17:00,543 --> 00:17:02,543
-I'm coming with you. -You stay here.
+I'm coming with you. 
+-You stay here.
 
 143
 00:17:11,617 --> 00:17:13,617
-Thank you. Quick, the wind is coming again.
+Thank you. Quick as the wind.
 
 144
 00:17:57,980 --> 00:17:59,980
-Good bye, grandfather.
+Hello, grandfather.
 
 145
 00:18:15,772 --> 00:18:17,772
@@ -614,7 +622,7 @@ Oh, I'm about to burst.
 
 151
 00:18:33,772 --> 00:18:36,772
-This is Heidi Almöhi, your niece.
+This is Heidi, Almöhi, your granddaughter.
 
 152
 00:18:39,772 --> 00:18:41,772
@@ -638,7 +646,7 @@ Yes.
 
 157
 00:18:51,188 --> 00:18:53,188
-Don't act as if you couldn't count to three.
+Don't stand around as if you couldn't count to three.
 
 158
 00:18:53,188 --> 00:18:56,188
@@ -650,15 +658,15 @@ Wait!
 
 160
 00:18:59,188 --> 00:19:01,188
-You stay here. You'll be needed in a moment, Heidi.
+You stay here. You're still needed for the moment, Heidi.
 
 161
 00:19:01,188 --> 00:19:03,188
-Okay, Dede, say what you want.
+Okay, Dete, say what you want.
 
 162
 00:19:03,188 --> 00:19:05,188
-You definitely didn't bring the baby here for no reason.
+You definitely didn't bring the kid here for no reason.
 
 163
 00:19:05,188 --> 00:19:07,188
@@ -682,7 +690,7 @@ I've been taking care of Heidi for the last four years. I've done what I could.
 
 168
 00:19:17,074 --> 00:19:19,274
-And now you're on the line, Almöhi.
+And now you're up, Almöhi.
 
 169
 00:19:20,474 --> 00:19:23,874
@@ -723,11 +731,11 @@ And if you don't want to keep her here, then do with her what you want.
 
 178
 00:19:53,772 --> 00:19:56,772
-But whatever happens, it happens on your responsibility.
+But whatever happens, it on you.
 
 179
 00:19:56,772 --> 00:20:01,772
-But I assume you're so hard-hearted that you're not even interested in what will
+But I assume you're so hard-hearted that you're not even interested in what would
 happen to a little girl.
 
 180
@@ -736,11 +744,11 @@ You don't seem to have ever heard the word "responsibility" before.
 
 181
 00:20:08,336 --> 00:20:11,836
-You crawl up here and don't speak a word with a human soul.
+You crawl up here and don't speak a word with a single human.
 
 182
 00:20:11,836 --> 00:20:15,336
-What do you think you're doing? But that's all I can tell you.
+Who do you think you are? I tell you what.
 
 183
 00:20:15,336 --> 00:20:16,836
@@ -756,11 +764,11 @@ You're not saying anything anymore.
 
 186
 00:20:19,836 --> 00:20:22,336
-Make sure you finally get out of here.
+Get out of here.
 
 187
 00:20:22,336 --> 00:20:25,836
-And don't you dare to look at me one more time.
+And don't let me catch you here ever again.
 
 188
 00:20:25,836 --> 00:20:27,836
@@ -808,15 +816,15 @@ Why did he have to get used to her first?
 
 199
 00:22:29,255 --> 00:22:31,255
-Couldn't he have her at the same time?
+Couldn't he just like her from the get-go?
 
 200
 00:22:31,255 --> 00:22:34,255
-Just like she liked Heidi from the beginning
+Just like she decided she liked him from the beginning
 
 201
 00:22:46,263 --> 00:22:51,263
-Heidi still couldn't know what her life would look like up here on the Alp
+Heidi couldn't know what her life would look like up here on the Alp
 
 202
 00:22:51,263 --> 00:22:54,263
@@ -832,19 +840,19 @@ And Heidi learned quickly
 
 205
 00:23:00,263 --> 00:23:08,263
-It didn't take long and she knew exactly how she had to treat this Norwegian
+It didn't take long and she knew exactly how she had to treat this grouchy old
 grandfather that everyone in the village feared
 
 206
 00:23:08,263 --> 00:23:12,263
-The life of Nunan changed for the Alp too
+Life for the Alm Ohi changed, too
 
 207
 00:23:12,263 --> 00:23:13,485
-The one who was used to it
+The one who was used to being alone
 
 208
 00:23:13,485 --> 00:23:21,765
-to be alone, suddenly had a little overbearing guest. But we want to tell you
+suddenly had a little overbearing guest. But we want to tell you
 about that in our next story.
 
