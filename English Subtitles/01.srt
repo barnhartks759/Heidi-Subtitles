@@ -1,3 +1,7 @@
+0
+00:02:24,000 --> 00:02:26,490
+Woah, stop already.
+
 1
 00:02:26,490 --> 00:02:29,490
 Well, what are you doing up so early, my child?
